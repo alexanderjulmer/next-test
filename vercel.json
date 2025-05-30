@@ -1,0 +1,17 @@
+{
+    "$schema": "https://openapi.vercel.sh/vercel.json",
+    "buildCommand": "next build",
+    "cleanUrls": false,
+    "crons": [],
+    "devCommand": "next dev --turbopack",
+    "framework": "nextjs",
+    "public": false,
+    "redirects": [],
+    "regions": [
+        "fra1"
+    ],
+    "rewrites": [],
+    "git": {
+        "deploymentEnabled": false
+    }
+}
